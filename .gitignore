@@ -7,3 +7,6 @@ dist/
 **/.DS_Store
 .vscode
 __pycache__
+
+# stuff for the project
+books/
